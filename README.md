@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0169-majority-element) |
+| [1018-largest-perimeter-triangle](https://github.com/amanruhela571/Daily-chanllenge/tree/master/1018-largest-perimeter-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0169-majority-element) |
+| [1018-largest-perimeter-triangle](https://github.com/amanruhela571/Daily-chanllenge/tree/master/1018-largest-perimeter-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [1018-largest-perimeter-triangle](https://github.com/amanruhela571/Daily-chanllenge/tree/master/1018-largest-perimeter-triangle) |
+## Greedy
+|  |
+| ------- |
+| [1018-largest-perimeter-triangle](https://github.com/amanruhela571/Daily-chanllenge/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
