@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0560-subarray-sum-equals-k) |
 | [1018-largest-perimeter-triangle](https://github.com/amanruhela571/Daily-chanllenge/tree/master/1018-largest-perimeter-triangle) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0204-count-primes) |
 | [1018-largest-perimeter-triangle](https://github.com/amanruhela571/Daily-chanllenge/tree/master/1018-largest-perimeter-triangle) |
 ## Greedy
 |  |
@@ -76,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0560-subarray-sum-equals-k) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
