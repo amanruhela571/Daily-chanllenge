@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0560-subarray-sum-equals-k) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/amanruhela571/Daily-chanllenge/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0410-split-array-largest-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/amanruhela571/Daily-chanllenge/tree/master/1018-largest-perimeter-triangle) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/amanruhela571/Daily-chanllenge/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,4 +100,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0410-split-array-largest-sum) |
+## String
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/amanruhela571/Daily-chanllenge/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Stack
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/amanruhela571/Daily-chanllenge/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/amanruhela571/Daily-chanllenge/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 <!---LeetCode Topics End-->
