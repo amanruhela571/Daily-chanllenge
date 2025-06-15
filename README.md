@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0075-sort-colors) |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0386-lexicographical-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/amanruhela571/Daily-chanllenge/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
